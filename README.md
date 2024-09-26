@@ -19,7 +19,7 @@ Welcome to Dayaratne's GitHub profile! We are passionate ERP Developers <img src
 - ⚡ In our free time, we love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 <br>
 
-<!-- contact me -->
+<!-- contact us -->
 <details>
  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contact me ....</summary>
 <div>
