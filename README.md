@@ -127,6 +127,6 @@ I'm a 2024 CS undergrad. Currently learning Data Structures and Algorithms, whil
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-Credit: [Kajal Kumari](https://github.com/dayaratneholding)
+Credit: [Dayaratne](https://github.com/dayaratneholding)
 
 Last Edited on: 14/01/2023
