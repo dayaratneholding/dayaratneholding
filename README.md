@@ -49,6 +49,12 @@ Welcome to Dayaratne's GitHub profile! We are passionate ERP Developers <img src
 <img src="https://www.svgrepo.com/show/303230/angular-icon-logo.svg" alt="angular" style="vertical-align:top; margin:4px;height:40px;width:40px">
 <img src="https://www.svgrepo.com/show/376369/dotnet.svg" alt=".net" style="vertical-align:top; margin:4px;height:40px;width:40px">
  <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" style="vertical-align:top; margin:4px;height:50px;width:80px">
+ <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="docker" style="vertical-align:top; margin:4px;height:50px;width:80px">
+ <img src="https://www.svgrepo.com/show/303210/figma-1-logo.svg" alt="figma" style="vertical-align:top; margin:4px;height:50px;width:80px">
+ <img src="https://www.svgrepo.com/show/303460/redis-logo.svg" alt="redis" style="vertical-align:top; margin:4px;height:50px;width:80px">
+ <img src="https://www.svgrepo.com/show/303554/nginx-logo.svg" alt="nginx" style="vertical-align:top; margin:4px;height:50px;width:80px">
+ <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" alt="git" style="vertical-align:top; margin:4px;height:50px;width:80px">
+ <img src="https://www.svgrepo.com/show/217753/github.svg" alt="github" style="vertical-align:top; margin:4px;height:50px;width:80px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg" style="vertical-align:top; margin:4px">
