@@ -2,7 +2,7 @@
  
 # Hello!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
-I am currently learning, developing and implementing Microservice Architecture with Docker - I love exploring and learning new technology stacks.
+We are currently learning, developing, and implementing Microservice Architecture with Docker - We love exploring and learning new technology stacks.
 <br/>
 <br/>
 <p align="center">
@@ -11,7 +11,7 @@ I am currently learning, developing and implementing Microservice Architecture w
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***We Are ....***
 Welcome to Dayaratne's GitHub profile! We are passionate ERP Developers <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka, specializing in .NET with Angular MicroService development. 
 
 - 💻 Currently, we are working on an ERP project, utilizing our expertise in C#, Angular, and .NET to develop robust web applications.
@@ -68,7 +68,7 @@ Welcome to Dayaratne's GitHub profile! We are passionate ERP Developers <img src
  
 <p align="center">
  
-[![Kajal's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayaratneholding&count_private=true&show_icons=true&theme=radical)](https://github.com/dayaratneholding)
+[![Dayaratne's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayaratneholding&count_private=true&show_icons=true&theme=radical)](https://github.com/dayaratneholding)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaratneholding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
@@ -103,7 +103,7 @@ Welcome to Dayaratne's GitHub profile! We are passionate ERP Developers <img src
        alt="snake" /></a>
 </div>
  
-<p align="center">🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
+<p align="center">🤍 If you like our projects, Give them ⭐ and Share it with friends!</p>
 </p>
 <p align="center">Made with ❤️ by Dayaratne</p>
 
