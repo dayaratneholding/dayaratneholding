@@ -16,8 +16,7 @@ I am currently learning, developing and implementing Microservice Architecture w
 ✔  🔭 &nbsp; I’m currently working on Web Development using Node.js and Express.
 ✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
 ✔  💬 Ask me about Java, HTML, CSS, Bootstrap, React<br>
-✔  📫 &nbsp;How to reach me, you can email me at [Gmail](kajalkumari@gmail.com)<br>
-✔  📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/kajal-k-a217511ba/),If I am alive I will answer within seconds 😉<br>
+✔  📫 &nbsp;How to reach me, you can email me at [Gmail](kokila.sanjeewa@gmail.com)<br>
 ✔  📚 &nbsp; When I am free, I read finance and Buisness books.<br>
 ✔ ⚡ &nbsp; Fun fact: I started investing after watching scam 1992.😉
 <br>
@@ -120,7 +119,7 @@ I am currently learning, developing and implementing Microservice Architecture w
  
 <p align="center">🤍 If you like my projects, Give them ⭐ and Share it with friends!</p>
 </p>
-<p align="center">Made with ❤️ by Kajal</p>
+<p align="center">Made with ❤️ by Dayaratne</p>
 
 
 <p align="center">
