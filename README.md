@@ -12,12 +12,11 @@ I am currently learning, developing and implementing Microservice Architecture w
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+Welcome to Dayaratne's GitHub profile! We are passionate ERP Developers <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sri Lanka, specializing in .NET with Angular MicroService development. 
 
-✔  🔭 &nbsp; I’m currently working on Web Development using Node.js and Express.
-✔  🤝 &nbsp;  I’m looking to collaborate on exciting projects which helps us to make our lives more efficient.<br>
-✔  💬 Ask me about Java, HTML, CSS, Bootstrap, React<br>
-✔  📫 &nbsp;How to reach me, you can email me at [Gmail](kokila.sanjeewa@gmail.com)<br>
-✔  📚 &nbsp; When I am free, I read finance and Buisness books.<br>
+- 💻 Currently, we are working on an ERP project, utilizing our expertise in C#, Angular, and .NET to develop robust web applications.
+- ✍️ we also enjoy sharing our knowledge through technical blogs, where we write about our experiences, tutorials, and best practices.
+- ⚡ In our free time, we love exploring the latest tech articles and staying updated with emerging technologies and best practices.
 <br>
 
 <!-- contact me -->
@@ -25,13 +24,13 @@ I am currently learning, developing and implementing Microservice Architecture w
  <summary><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;Contact me ....</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">you can reach Dayaratne by:</h2>
     <p align="center">
       <br/>
       <a href="https://fb.com/dayaratneholding" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mailto:dayaratneholding03@gmail.com" target="blank"><img align="center"
+      <a href="mailto:kokilas@dayaratne.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
