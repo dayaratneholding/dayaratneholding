@@ -46,7 +46,7 @@ Welcome to Dayaratne's GitHub profile! We are passionate ERP Developers <img src
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg" alt="python" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/angular.svg" alt="angular" style="vertical-align:top; margin:4px">
+<img src="https://www.svgrepo.com/show/303230/angular-icon-logo.svg" alt="angular" style="vertical-align:top; margin:4px;height:40px;width:40px">
 <img src="https://www.svgrepo.com/show/376369/dotnet.svg" alt=".net" style="vertical-align:top; margin:4px;height:40px;width:40px">
  <img src="https://www.svgrepo.com/show/303231/docker-logo.svg" alt="docker" style="vertical-align:top; margin:4px;height:50px;width:80px">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
