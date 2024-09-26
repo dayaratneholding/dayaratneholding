@@ -78,9 +78,9 @@ Welcome to Dayaratne's GitHub profile! We are passionate ERP Developers <img src
  
 [![Dayaratne's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayaratneholding&count_private=true&show_icons=true&theme=radical)](https://github.com/dayaratneholding)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaratneholding&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaratneholding&layout=compact)](https://github.com/dayaratneholding/github-readme-stats)
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=dayaratneholding&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dayaratneholding&theme=onedark&row=1&column=7)](https://github.com/dayaratneholding/github-profile-trophy)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dayaratneholding&theme=dark)
  
